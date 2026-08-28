@@ -7,7 +7,7 @@ The platform uses graph concepts to answer practical developer-network questions
 ## 🌐 Live Demo
 
 **Live Application:**
-https://dev-connect-seven-zeta.vercel.app/
+[https://dev-connect-seven-zeta.vercel.app/](https://dev-connect-seven-zeta.vercel.app/?q=)
 
 
 **GitHub Repository:**
