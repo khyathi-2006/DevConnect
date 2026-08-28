@@ -9,8 +9,6 @@ The platform uses graph concepts to answer practical developer-network questions
 **Live Application:**
 https://dev-connect-seven-zeta.vercel.app/
 
-**Local Development:**  
-http://localhost:3000/?q=
 
 **GitHub Repository:**
 https://github.com/khyathi-2006/DevConnect
