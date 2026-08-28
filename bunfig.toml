@@ -1,0 +1,4 @@
+[install]
+saveTextLockfile = true
+# 24h supply-chain guard for newly published package versions.
+minimumReleaseAge = 86400
